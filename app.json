@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "UdhaarScore",
+    "slug": "udhaar-score",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./icon.png",
+    "splash": {
+      "image": "./splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#060814"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./icon.png",
+        "backgroundColor": "#060814"
+      }
+    }
+  }
+}
