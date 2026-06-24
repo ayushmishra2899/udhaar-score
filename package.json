@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "expo": "^56.0.12",
-    "firebase": "^12.15.0"
+    "firebase": "^12.15.0",
+    "lucide-react-native": "^1.21.0"
   }
 }
